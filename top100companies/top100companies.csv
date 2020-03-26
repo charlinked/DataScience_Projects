@@ -1,0 +1,101 @@
+Rank,Company Name,Market Value,Assets,Sales,Profits,Country
+1,Apple,961.3,373.7,261.7,59.4,US
+2,Microsoft,946.5,258.9,118.2,33.5,US
+3,Amazon,916.1,162.6,232.9,10.1,US
+4,Alphabet,863.2,232.8,137,30.7,US
+5,Berkshire Hathaway,516.4,707.8,247.8,4,US
+6,Facebook,512,97.3,55.8,22.1,US
+7,Alibaba,480.8,133.7,51.9,10.3,China
+8,Tencent Holdings,472.1,105.4,47.2,11.9,China
+9,JPMorgan Chase,368.5,2737.2,132.9,32.7,US
+10,Johnson & Johnson,366.2,153,81.6,14.7,US
+11,Visa,351.9,71.7,21.3,10.4,US
+12,ExxonMobil,343.4,346.2,279.2,20.8,US
+13,ICBC,305.1,4034.5,175.9,45.2,China
+14,Walmart,296.1,219.3,514.4,6.7,US
+15,Bank of America,287.3,2377.2,111.9,28.5,US
+16,Nestle,281.3,139,93.4,10.4,Switzerland
+17,Samsung Electronics,272.4,304.1,221.5,39.9,South Korea
+18,Procter & Gamble,265.3,123.7,66.9,10.8,US
+19,Royal Dutch Shell,264.9,399.2,382.6,23.3,Netherlands
+20,Intel,263.1,128,70.8,21.1,US
+21,Cisco Systems,248.3,102.5,50.8,12.9,US
+22,Mastercard,247.1,24.9,15,5.9,US
+23,Verizon Communications,239.7,264.8,130.9,15.5,US
+24,Walt Disney,238.1,99.9,59.4,11,US
+25,AT&T,233.3,531.9,170.8,19.4,US
+26,Chevron,228.3,253.9,158.7,14.8,US
+27,Home Depot,226.8,44,108.2,11.1,US
+28,China Construction Bank,225,3382.4,150.3,38.8,China
+29,Nike,224.3,22.9,38.7,4.2,US
+30,Taiwan Semiconductor,222.4,68,34.2,11.6,Taiwan
+31,Roche Holding,222,79.6,58.1,10.7,Switzerland
+32,Ping An Insurance Group,220.2,1038.3,151.8,16.3,China
+33,Pfizer,218.6,159.4,53.6,11.2,US
+34,Wells Fargo,214.7,1887.8,101.5,23.1,US
+35,Boeing,214.5,117.4,101.1,10.5,US
+36,UnitedHealth Group,212.8,161.2,231.4,12.6,US
+37,Coca-Cola,203,83.2,31.7,6.4,US
+38,PetroChina,198.7,354.3,322.8,8,China
+39,China Mobile,197.6,223.7,111.8,17.9,Hong Kong
+40,Agriculturalank of China,197,3293.1,137.5,30.9,China
+41,Comcast,192,251.7,94.5,11.7,US
+42,Merck & Co.,189.1,82.6,42.3,6.2,US
+43,Oracle,186.3,109.4,39.6,10.8,US
+44,PepsiCo,178.2,75.5,65,12.6,US
+45,Kweichow Moutai,177.1,23.3,10,5.3,China
+46,Toyota Motor,176.6,465.6,272.1,17.2,Japan
+47,Anheuser-Busch InBev,175.7,233.8,54.6,4.3,Belgium
+48,Novartis,175.6,145.6,51.9,12.6,Switzerland
+49,HSBC Holdings,175.5,2558.1,64.3,13.7,UK
+50,Citigroup,161.1,1958.4,100,17.9,US
+51,Netflix,157.3,26,15.8,1.2,US
+52,Unilever,153.6,68,60.1,11.1,Netherlands
+53,L'Oréal,153,44,31.8,4.6,France
+54,BP,149.5,282.2,299.1,9.3,UK
+55,Total,149.5,256.8,184.2,11.4,France
+56,McDonald's,148.8,32.8,21,5.9,US
+57,Bank of China,143,3097.6,126.7,27.5,China
+58,BHP Group,138.3,102.4,42.6,6,Australia
+59,SAP,134.9,58.9,29.1,4.8,Germany
+60,Adobe,132,19.5,9.5,2.7,US
+61,Philip Morris International,131.5,38,29.5,7.7,US
+62,China Merchantsank,130.4,982.5,54.9,12.3,China
+63,Abbott Laboratories,129.8,67.2,30.7,2.6,US
+64,Reliance Industries,126.4,124.6,79.7,5.6,India
+65,Broadcom,126.1,72.1,21.3,6.5,US
+66,3M,126.1,36.5,32.8,5.3,US
+67,PayPal,125.8,43.3,15.5,2.1,US
+68,Union Pacific,125.6,59.6,22.8,6,US
+69,IBM,124.9,130.9,78.7,8.6,US
+70,Honeywell International,123.1,58.6,40.3,6.7,US
+71,AIA Group,122.2,226.9,39.5,3.2,Hong Kong
+72,Salesforce.com,120.9,30.7,13.3,1.1,US
+73,Eli Lilly,119.3,43.9,24.6,3.2,US
+74,United Technologies,118.1,134.2,66.5,5.3,US
+75,Novo Nordisk,116.3,17,17.7,6.1,Denmark
+76,Tata Consultancy Services,116.1,16.6,20.9,4.5,India
+77,RBC,114.9,1040.3,46.3,9.6,Canada
+78,AbbVie,114.7,59.4,32.8,5.7,US
+79,China Life Insurance,114.2,474.8,98.3,1.9,China
+80,Accenture,113.9,27.4,42.5,4.5,Ireland
+81,NVIDIA,113.4,13.3,11.7,4.1,US
+82,Medtronic,113,88.7,30.6,4.9,Ireland
+83,Softbank,112.4,332.3,86.2,13.9,Japan
+84,Naspers,111.3,35.8,6.9,13.5,South Africa
+85,Amgen,109.3,66.4,23.8,8.4,US
+86,Texas Instruments,108.4,17.1,15.8,5.5,US
+87,Costco Wholesale,108.1,42.8,147.2,3.4,US
+88,Sinopec,105.6,233,399.7,9.5,China
+89,AIRBUS,104.9,131.7,75.2,3.6,Netherlands
+90,Thermo Fisher Scientific,103.9,56.2,24.4,2.9,US
+91,TDank Group,103.8,1007,42.5,8.7,Canada
+92,Allianz,102.3,1060.2,118.8,8.8,Germany
+93,Sanofi,102,127.4,40.7,5.1,France
+94,Altria Group,101.8,55.6,19.6,7,US
+95,Saudiasic Industries,100,85.3,45.1,5.7,Saudi Arabia
+96,Rio Tinto,100,90.9,40.5,13.8,UK
+97,AstraZeneca,99.2,60.7,23.9,2.2,UK
+98,Linde,98.3,93.4,14.9,4.4,UK
+99,United Parcel Service,98.3,50,71.9,4.8,US
+100,Inditex,98,24.9,30.7,4,Spain
