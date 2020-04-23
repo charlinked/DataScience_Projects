@@ -1,1 +1,1 @@
-This Notebook demonstates the use of a simple webscraper in python using Beautiful Soup, Data cleaning and basic data visualization in matplotlib and Seaborn
+This Notebook we gather data on the top 100 companies of 2019 and demonstate the use of a simple webscraper in python using Beautiful Soup, in addition to data cleaning and basic data visualization in matplotlib and Seaborn. 
