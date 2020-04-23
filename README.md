@@ -1,6 +1,6 @@
 # DataScience_Projects
 Collection of Data Science projects 
-demonstrating: data extraction, data cleaning, data vizualization, statistiscal analysis & insights, machine learning & prediction models
+demonstrating: data extraction, data cleaning, data vizualization, statistical analysis & insights, machine learning & prediction models
 
 Projects in this folder:
 1. *top 100 companies* :
